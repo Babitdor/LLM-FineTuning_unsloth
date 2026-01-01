@@ -2,7 +2,7 @@
 
 ## Overview
 
-This provides a pipeline for fine-tuning large language models (LLMs) on SysMLv2 datasets and exporting them to GGUF format for efficient inference.
+This provides a pipeline for fine-tuning large language models (LLMs) on any alpaca and conversation style datasets and exporting them to GGUF format for efficient inference.
 The script allows training with LoRA adapters, dataset formatting (instruction or conversation), and supports quantized GGUF export.
 
 ## Features
